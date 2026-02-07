@@ -1,0 +1,14 @@
+{
+  "name": "@pkg/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "packageManager": "pnpm@10.28.2",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

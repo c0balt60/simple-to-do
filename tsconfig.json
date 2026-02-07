@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@pkg/shared": [
+                "packages/shared/src"
+            ],
+            "@pkg/shared/*": [
+                "packages/shared/src/*"
+            ]
+        }
+    }
+}
