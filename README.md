@@ -1,11 +1,8 @@
 # Simple To Do App
-----
 
 ......
 
-
 ## Project Workflow
-----
 
 Before running the project, install dependencies and tools:
 
@@ -21,7 +18,6 @@ pnpm build # Builds files
 ```
 
 ## Running Client web-view
-----
 
 To run the client webview, you simply run
 
@@ -32,12 +28,10 @@ pnpm run dev
 This sets up vite and displays the site
 
 ## Running the Server
-----
 
 > todo
 
 ## Stack
-----
 
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
